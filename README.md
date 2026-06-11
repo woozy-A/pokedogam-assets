@@ -18,7 +18,13 @@ animated/
   002.gif
   003.gif
   ...
+  493.gif
 ```
+
+Current coverage:
+
+- Primary GIFs: `001.gif` through `493.gif`
+- Bonus local-style GIFs are kept when available, such as `001-1.gif`
 
 ## App Fallback Order
 
